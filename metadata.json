@@ -1,0 +1,5 @@
+{
+  "name": "AeroLeads Scraper Script Generator",
+  "description": "An advanced tool that uses AI to generate a custom Python script for scraping LinkedIn profiles, complete with a step-by-step setup guide for junior developers.",
+  "requestFramePermissions": []
+}
